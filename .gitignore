@@ -1,0 +1,17 @@
+# Dependency directories
+/node_modules
+
+# Build output
+/dist
+/build
+
+# Environment variables
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs and debugging files
+pnpm-debug.log*
+debug.log

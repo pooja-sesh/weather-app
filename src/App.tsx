@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <div>
-        <h1 className='text-blue-400'>Weather App</h1>
+        <h1 className='text-green-400'>Weather App</h1>
         <Dropdown options={options} />
       </div>
     </>

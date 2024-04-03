@@ -2,8 +2,8 @@ import React from 'react'
 import ReactDOM from 'react-dom/client'
 import { NextUIProvider } from '@nextui-org/react'
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
-import App from './App.tsx'
 import './index.css'
+import App from './pages/App.tsx';
 
 const queryClient = new QueryClient()
 
